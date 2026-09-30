@@ -109,8 +109,11 @@ Delivering this message at the pain point makes the value of membership tangible
  
 Casual riders use Cyclistic differently from members — they take longer, more variable rides, ride disproportionately on weekends and during summer, and concentrate heavily around recreational and landmark stations rather than the downtown hubs members favor. These consistent behavioral differences point to clear, targeted opportunities for converting casual riders into annual members — by season, by day, and by location — rather than relying on a single, broad campaign.
 
-
-
+ --------------------------------------------------------------------
+## 🔗 Link
+ --------------------------------------------------------------------
+ 
+https://public.tableau.com/views/Cyclisticanalysis_17907655768570/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
