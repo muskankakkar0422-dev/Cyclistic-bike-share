@@ -88,8 +88,6 @@ Recommendations
     * Trigger real‑time prompts after long rides:
 “This ride cost $X — a membership would’ve been $Y.”  
 Delivering this message at the pain point makes the value of membership tangible and immediate.
- * Prioritize Repeat Casuals
-    * Concentrate efforts on repeat casual riders who appear across multiple months. These riders show higher conversion potential compared to one‑time tourists, who are less likely to adopt annual plans.
 
  --------------------------------------------------------------------
 ## 🎯 Skills Demonstrated
